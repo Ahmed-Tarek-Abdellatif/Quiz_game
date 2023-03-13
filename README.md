@@ -1,4 +1,4 @@
-# Quiz_game
+# Quiz ame
 
 This project is a collaboration between Ahmed Tarek and Mostafa Ahmed.
 
